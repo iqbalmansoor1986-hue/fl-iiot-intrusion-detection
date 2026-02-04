@@ -1,0 +1,7 @@
+@software{YOURKEY_cross_silo_fl_ids_2026,
+  author  = {Mansoor Iqbal},
+  title   = {cross-silo-fl-ids: Cross-Silo Federated IDS for IIoT},
+  year    = {2026},
+  version = {v0.1.0},
+  url     = {https://github.com/iqbalmansoor1986-hue/fl-iiot-intrusion-detection},
+}
