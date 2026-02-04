@@ -1,7 +1,21 @@
-@software{YOURKEY_cross_silo_fl_ids_2026,
-  author  = {Mansoor Iqbal},
-  title   = {cross-silo-fl-ids: Cross-Silo Federated IDS for IIoT},
-  year    = {2026},
-  version = {v0.1.0},
-  url     = {https://github.com/iqbalmansoor1986-hue/fl-iiot-intrusion-detection},
-}
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Cross-Silo Federated IDS for IIoT with Robust Aggregation and Update Protection"
+authors:
+  - family-names: "Iqbal"
+    given-names: "Mansoor"
+repository-code: "https://github.com/iqbalmansoor1986-hue/fl-iiot-intrusion-detection"
+version: 1.0.0
+date-released: 2026-02-04
+keywords:
+  - federated learning
+  - intrusion detection
+  - IIoT
+  - cross-silo
+  - non-IID
+  - FedProx
+  - robust aggregation
+  - trimmed mean
+  - differential privacy
+  - PyTorch
+license: "MIT"
